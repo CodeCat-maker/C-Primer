@@ -1,0 +1,9 @@
+{
+  "workbench.editor.enablePreview": false,
+  "files.associations": {
+    "ostream": "cpp",
+    "iostream": "cpp",
+    "array": "cpp",
+    "iosfwd": "cpp"
+  }
+}
